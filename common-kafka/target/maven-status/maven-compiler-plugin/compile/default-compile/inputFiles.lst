@@ -1,0 +1,5 @@
+/home/leonardo/desenvolvimento/kafka-ecommerce/common-kafka/src/main/java/br/com/leo/ecommerce/GsonDeserializer.java
+/home/leonardo/desenvolvimento/kafka-ecommerce/common-kafka/src/main/java/br/com/leo/ecommerce/KafkaDispatcher.java
+/home/leonardo/desenvolvimento/kafka-ecommerce/common-kafka/src/main/java/br/com/leo/ecommerce/KafkaService.java
+/home/leonardo/desenvolvimento/kafka-ecommerce/common-kafka/src/main/java/br/com/leo/ecommerce/ConsumerFunction.java
+/home/leonardo/desenvolvimento/kafka-ecommerce/common-kafka/src/main/java/br/com/leo/ecommerce/GsonSerializer.java
